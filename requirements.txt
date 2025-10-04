@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+httpx
+pydantic
+python-multipart
+chromadb
+sentence-transformers
+pytest
+python-dotenv
+pydantic-settings
+boto3
+google-cloud-storage
